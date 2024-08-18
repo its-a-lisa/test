@@ -1,29 +1,9 @@
 {
   "props": [
     {
-      "name": "five",
+      "name": "1 one",
       "type": "color",
-      "value": "#ffffff",
-      "category": "color",
-      "meta": {
-        "projectId": "5LS7fmWpTWNVfuRHg1A41M",
-        "id": "-fNja8SAABlo"
-      }
-    },
-    {
-      "name": "four",
-      "type": "color",
-      "value": "#ffffff",
-      "category": "color",
-      "meta": {
-        "projectId": "5LS7fmWpTWNVfuRHg1A41M",
-        "id": "TgwKMbq17Dj-"
-      }
-    },
-    {
-      "name": "one",
-      "type": "color",
-      "value": "#ffffff",
+      "value": "#1F7AB4",
       "category": "color",
       "meta": {
         "projectId": "5LS7fmWpTWNVfuRHg1A41M",
@@ -31,29 +11,19 @@
       }
     },
     {
-      "name": "seven",
+      "name": "2 two",
       "type": "color",
-      "value": "#ffffff",
+      "value": "#8AB6E8",
       "category": "color",
       "meta": {
         "projectId": "5LS7fmWpTWNVfuRHg1A41M",
-        "id": "CMJXEoy6X61O"
+        "id": "AVUJIGoxq5lh"
       }
     },
     {
-      "name": "six",
+      "name": "3 three",
       "type": "color",
-      "value": "#ffffff",
-      "category": "color",
-      "meta": {
-        "projectId": "5LS7fmWpTWNVfuRHg1A41M",
-        "id": "AIfQ_bdAfUVs"
-      }
-    },
-    {
-      "name": "three",
-      "type": "color",
-      "value": "#43D357",
+      "value": "#7862DB",
       "category": "color",
       "meta": {
         "projectId": "5LS7fmWpTWNVfuRHg1A41M",
@@ -61,13 +31,43 @@
       }
     },
     {
-      "name": "two",
+      "name": "4 four",
       "type": "color",
-      "value": "#4A31BB",
+      "value": "#156185",
       "category": "color",
       "meta": {
         "projectId": "5LS7fmWpTWNVfuRHg1A41M",
-        "id": "AVUJIGoxq5lh"
+        "id": "TgwKMbq17Dj-"
+      }
+    },
+    {
+      "name": "5 five",
+      "type": "color",
+      "value": "#FBE10F",
+      "category": "color",
+      "meta": {
+        "projectId": "5LS7fmWpTWNVfuRHg1A41M",
+        "id": "-fNja8SAABlo"
+      }
+    },
+    {
+      "name": "6 six",
+      "type": "color",
+      "value": "#F0CBE0",
+      "category": "color",
+      "meta": {
+        "projectId": "5LS7fmWpTWNVfuRHg1A41M",
+        "id": "AIfQ_bdAfUVs"
+      }
+    },
+    {
+      "name": "7 seven",
+      "type": "color",
+      "value": "#3295E9",
+      "category": "color",
+      "meta": {
+        "projectId": "5LS7fmWpTWNVfuRHg1A41M",
+        "id": "CMJXEoy6X61O"
       }
     }
   ],
