@@ -1,9 +1,9 @@
 {
   "props": [
     {
-      "name": "white",
+      "name": "red",
       "type": "color",
-      "value": "#ffffff",
+      "value": "#D34343",
       "category": "color",
       "meta": {
         "projectId": "5LS7fmWpTWNVfuRHg1A41M",
