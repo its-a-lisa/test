@@ -1,13 +1,73 @@
 {
   "props": [
     {
-      "name": "red",
+      "name": "five",
       "type": "color",
-      "value": "#D34343",
+      "value": "#ffffff",
+      "category": "color",
+      "meta": {
+        "projectId": "5LS7fmWpTWNVfuRHg1A41M",
+        "id": "-fNja8SAABlo"
+      }
+    },
+    {
+      "name": "four",
+      "type": "color",
+      "value": "#ffffff",
+      "category": "color",
+      "meta": {
+        "projectId": "5LS7fmWpTWNVfuRHg1A41M",
+        "id": "TgwKMbq17Dj-"
+      }
+    },
+    {
+      "name": "one",
+      "type": "color",
+      "value": "#ffffff",
+      "category": "color",
+      "meta": {
+        "projectId": "5LS7fmWpTWNVfuRHg1A41M",
+        "id": "iEoa36S9sNK_"
+      }
+    },
+    {
+      "name": "seven",
+      "type": "color",
+      "value": "#ffffff",
+      "category": "color",
+      "meta": {
+        "projectId": "5LS7fmWpTWNVfuRHg1A41M",
+        "id": "CMJXEoy6X61O"
+      }
+    },
+    {
+      "name": "six",
+      "type": "color",
+      "value": "#ffffff",
+      "category": "color",
+      "meta": {
+        "projectId": "5LS7fmWpTWNVfuRHg1A41M",
+        "id": "AIfQ_bdAfUVs"
+      }
+    },
+    {
+      "name": "three",
+      "type": "color",
+      "value": "#43D357",
       "category": "color",
       "meta": {
         "projectId": "5LS7fmWpTWNVfuRHg1A41M",
         "id": "G5oL9NA0v_9R"
+      }
+    },
+    {
+      "name": "two",
+      "type": "color",
+      "value": "#4A31BB",
+      "category": "color",
+      "meta": {
+        "projectId": "5LS7fmWpTWNVfuRHg1A41M",
+        "id": "AVUJIGoxq5lh"
       }
     }
   ],
